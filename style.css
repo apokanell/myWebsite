@@ -1,0 +1,24 @@
+
+body {
+    font-family: sans-serif;
+    background-color:rgb(255, 94, 94);
+}
+
+h1{
+    border: 1px solid lightskyblue;
+    border-radius: 10px;
+    background-color: lightblue;
+    padding: 10px;
+    width: 55%;
+    color: rgb(245, 0, 0);
+    border-bottom: 3px dotted black;
+    margin: 20px;
+}
+
+li{
+    font-size: 25px;
+    color: darkblue;
+    
+
+
+}
